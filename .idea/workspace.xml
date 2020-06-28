@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bd3b02f-9c74-4cc8-8d4b-ca32a0f0a3d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bTmvt83fXWQGi0Yp1PkNspmTpH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.project.basic" />
+      <recent name="com.project.demo" />
+      <recent name="com.project.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestDemo">
+    <configuration name="BasicIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.basic.BasicIO" />
+      <module name="JavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicSerialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.basic.BasicSerialize" />
+      <module name="JavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.demo.TestDemo" />
+      <module name="JavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UDPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.demo.UDPClient" />
+      <module name="JavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UDPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.demo.UDPServer" />
+      <module name="JavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDemo" />
+        <item itemvalue="Application.BasicSerialize" />
+        <item itemvalue="Application.BasicIO" />
+        <item itemvalue="Application.UDPServer" />
+        <item itemvalue="Application.UDPClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bd3b02f-9c74-4cc8-8d4b-ca32a0f0a3d5" name="Default Changelist" comment="" />
+      <created>1588664691889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588664691889</updated>
+      <workItem from="1588664695731" duration="80784000" />
+      <workItem from="1589530283650" duration="9699000" />
+      <workItem from="1589712190565" duration="22528000" />
+      <workItem from="1591169647375" duration="753000" />
+      <workItem from="1591867822851" duration="1425000" />
+      <workItem from="1592230370989" duration="110000" />
+      <workItem from="1593331756249" duration="226000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589985788195">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="444" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1589985788195" />
+    <state x="533" y="178" key="#com.intellij.ide.util.MemberChooser" timestamp="1589092425274">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="533" y="178" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1589092425274" />
+    <state width="1398" height="131" key="GridCell.Tab.0.bottom" timestamp="1590753938814">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="131" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1590753938814" />
+    <state width="1398" height="131" key="GridCell.Tab.0.center" timestamp="1590753938813">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="131" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1590753938813" />
+    <state width="1398" height="131" key="GridCell.Tab.0.left" timestamp="1590753938813">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="131" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1590753938813" />
+    <state width="1398" height="131" key="GridCell.Tab.0.right" timestamp="1590753938813">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="131" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1590753938813" />
+    <state x="229" y="63" key="SettingsEditor" timestamp="1593331981490">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="229" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1593331981490" />
+    <state x="326" y="83" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588947831520">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="326" y="83" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.877@0.23.1440.877" timestamp="1588947831520" />
+    <state x="458" y="232" key="extract.method.dialog" timestamp="1589092901775">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="232" key="extract.method.dialog/0.23.1440.877@0.23.1440.877" timestamp="1589092901775" />
+    <state x="386" y="223" width="667" height="476" key="find.popup" timestamp="1592230477381">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="386" y="223" width="667" height="476" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1592230477381" />
+    <state x="114" y="46" key="new project wizard" timestamp="1590560888586">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="114" y="46" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1590560888586" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1589030446117">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1589030446117" />
+  </component>
+</project>
